@@ -1,5 +1,7 @@
 # pokemon-culture
 
+use https://pokeapi.co/
+
 ## Project setup
 ```
 npm install
